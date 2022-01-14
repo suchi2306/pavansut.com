@@ -7,7 +7,7 @@
     $visitor_email = $_POST['email'];
     
     $message = $_POST['message'];
-    $email_from ='www.pavansutglobaltrade.com';
+    $email_from ='https://suchi2306.github.io/pavansut.com/';
     $email_subject = "New Form Submission";
     $email_body = "User Name: $name.\n". 
                     "User Email: $visitor_email.\n".    
